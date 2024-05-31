@@ -1,0 +1,19 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Outer black circle -->
+  <circle cx="100" cy="100" r="90" fill="black" />
+  <!-- Inner red circle(circumference)-->
+  <circle cx="100" cy="100" r="79" fill="violet" />
+  <!-- Outer Black circle-->
+  <circle cx="100" cy="100" r="78" fill="black" />
+
+   <!-- Red monkey inside the circle -->
+   <g fill="maroon" stroke="black" stroke-width="9">
+    
+    <circle cx="100" cy="100" r="50"/>
+    <circle cx="100" cy="100" r="30"/>
+    <!-- Eyes -->
+    <circle cx="85" cy="100" r="9" fill="white"/>
+    <circle cx="115" cy="100" r="9" fill="white"/>
+  </g>
+
+</svg>
