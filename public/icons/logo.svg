@@ -7,9 +7,9 @@
   <circle cx="100" cy="100" r="78" fill="black" />
 
    <!-- Red monkey inside the circle -->
-   <g fill="maroon" stroke="black" stroke-width="9">
+   <g fill="maroon" stroke="black" stroke-width="10">
     
-    <circle cx="100" cy="100" r="50"/>
+    <circle cx="100" cy="100" r="90"/>
     <circle cx="100" cy="100" r="30"/>
     <!-- Eyes -->
     <circle cx="85" cy="100" r="9" fill="white"/>
